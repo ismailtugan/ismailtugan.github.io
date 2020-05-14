@@ -1,3 +1,4 @@
+![ismailtugan](https://cdn.glitch.com/14692797-bc95-4e4f-be9b-2428a63c3bec%2F11998929_485623764945314_1479378458455518860_n.jpg?v=1589474851700)
 # Personal Information 
 ## Ismail TUGAN
  :man: <br/>
