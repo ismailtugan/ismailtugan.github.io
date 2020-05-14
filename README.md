@@ -10,7 +10,7 @@
 
 ## Work Experience
 Time | Company | As a
------|---------|-----
+-----|-----|-----
 07.2018-01.2019|Vorteks Engineering| Mechanical Design Engineer
 01.2017-04.2017|Belmak|Design and Control Engineer
 09.2016-11.2016|Om Engineering|Intern <br> 
@@ -25,7 +25,7 @@ Balıkesir Univesity Mechanical Engineer|Université Catholique de Louvain (Acce
 **Main Language:** Turkish <br>
 **Foreign Languages** <br>
 Language|Level 
---------|-----
+-----|-----
 English|B2
 French|A2 <br>
 ### Digital Skills
