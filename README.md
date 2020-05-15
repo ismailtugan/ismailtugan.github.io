@@ -39,7 +39,7 @@
 | Language | Level |
 | :-----: | :-----: |
 | English | B2 |
-| French | A2 | <br>
+| French | A2 | 
 
 ---
 ### Digital Skills
