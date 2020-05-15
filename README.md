@@ -8,7 +8,7 @@
 :e-mail: : ismailtugan236@gmail.com <br/> <br> 
 [![linkedin](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/ismail-tu%C4%9Fan-b8b21018b/) <br> 
 
-## Work Experience
+## Work Experience <br>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Education 
+## Education <br> 
 
 ---
 
