@@ -16,7 +16,7 @@
 | ----- | ----- | -----|
 | 07.2018-01.2019 | Vorteks Engineering | Mechanical Design Engineer |
 | 01.2017-04.2017 | Belmak | Design and Control Engineer |
-| 09.2016-11.2016 | Om Engineering | Intern | <br> 
+| 09.2016-11.2016 | Om Engineering | Intern | 
 
 ---
 
@@ -26,7 +26,7 @@
 
 | 2012-2016 | 2019-2020 | 
 | ------------------------------------- | -------------------------------------------------- |
-| Balıkesir Univesity Mechanical Engineer | Université Catholique de Louvain (Access2University) | <br>
+| Balıkesir Univesity Mechanical Engineer | Université Catholique de Louvain (Access2University) | 
 
 ---
 
