@@ -37,7 +37,7 @@
 ---
 
 | Language | Level |
-| :-----: | :-----: |
+| ----- | ----- |
 | English | B2 |
 | French | A2 | 
 
