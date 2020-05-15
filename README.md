@@ -15,19 +15,27 @@
 | 01.2017-04.2017 | Belmak | Design and Control Engineer |
 | 09.2016-11.2016 | Om Engineering | Intern | <br> 
 
+---
+
 ## Education 
-| 2012-2016 | 2019-2020 |
+| 2012-2016 | 2019-2020 | 
 | :-------------------------------------: | :--------------------------------------------------: |
 | Balıkesir Univesity Mechanical Engineer | Université Catholique de Louvain (Access2University) |
+
+---
 
 ## Personal Skills 
 ### Language
 **Main Language:** Turkish <br>
 **Foreign Languages** <br>
+---
+
 | Language | Level |
 | :-----: | :-----: |
 | English | B2 |
 | French | A2 | <br>
+
+---
 ### Digital Skills
 * **REVİT** <br>
 * **AUTOCAD** <br>
